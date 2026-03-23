@@ -42,7 +42,7 @@ module queue;
     $display(q);
     q.pop_back();//without display what we pop back
     $display(q);
-    q.pop_front();//without display what we pop back
+    q.pop_front();//without display what we pop front
     $display(q);
     q.reverse();
     $display(q);
