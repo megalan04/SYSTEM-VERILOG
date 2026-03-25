@@ -7,24 +7,24 @@ module array_locators;
   initial begin
     $display("sum=",q.sum());
     $display("product=",d.product());
-    $display("maximum=",f.max());
-    $display("minimum=",q.min());
+    $display("maximum=%p",f.max());
+    $display("minimum=%p",q.min());
     
     tq=f.unique();
-    $display(tq);
+    $display("%p",tq);
     tq=d.find with (item>4);
-    $display(tq);
+    $display("%p",tq);
     tq=f.find with (item<6);
-    $display(tq);
+    $display("%p",tq);
     tq=d.find with (item>20);
-    $display(tq);
+    $display("%p",tq);
     tq=d.find_index with (item==8);
-    $display(tq);
+    $display("%p",tq);
     tq=f.find_index with (item==8);
-    $display(tq);
+    $display("%p",tq);
     tq=d.find_first_index with (item==4);
-    $display(tq);
+    $display("%p",tq);
     tq=d.find_last_index with (item==4);
-    $display(tq);
+    $display("%p",tq);
   end 
 endmodule
