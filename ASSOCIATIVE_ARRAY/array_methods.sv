@@ -4,9 +4,10 @@ module test;
     marks["tamil"]=90;
     marks["science"]=77;
     marks["math"]=66;
-    $display("Total subjects=%0d",i,marks.num());
+    $display("Total subjects=%0d",marks.num());
   end
 endmodule
+
 
 //remaining methods
 module test;
