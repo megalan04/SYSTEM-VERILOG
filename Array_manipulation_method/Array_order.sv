@@ -11,3 +11,9 @@ module array_order;
     $display("shuffle=%p",M);
   end
 endmodule
+
+//output
+reverse='{44, 22, 88, 77, 66, 55, 33, 11, 99}
+sort (ascending)='{11, 22, 33, 44, 55, 66, 77, 88, 99}
+rsort (descending)='{99, 88, 77, 66, 55, 44, 33, 22, 11}
+shuffle='{99, 33, 66, 11, 44, 77, 55, 22, 88}
