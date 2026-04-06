@@ -18,3 +18,19 @@ module string_datatype();
     $display("give the present output=%s",str1.getc(1));
   end
 endmodule
+
+
+//output
+string str1=AVENGERS
+string str2=assemble
+after the lowercase=avengers
+after the uppercase=ASSEMBLE
+compare with case sensitive=-1
+compare without case sensitive=1
+give the value between the given index=ssemb
+length of the str1=8
+length of the str2=8
+puuting the charater in particular index(3) in str1=AVEhGERS
+give the present output=E
+xmsim: *W,RNQUIE: Simulation is complete.
+xcelium> exit
