@@ -25,3 +25,11 @@ module test;
     end
   end
 endmodule
+
+//output
+Total subjects=3
+//remain methods
+math exists
+marks(math)=66
+marks(social science)=88
+marks(tamil)=90
