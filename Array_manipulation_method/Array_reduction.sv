@@ -14,3 +14,10 @@ module array_reduction;
     $display(redu);
   end
 endmodule
+
+//output
+         10
+         24
+          0
+          7
+          4
