@@ -34,3 +34,20 @@ module tb;
     $display("after the wire=%b",wr);
   end
 endmodule
+
+
+//output
+default value reg=xxxxx
+default value wire=xx
+default value of logic=xxxxxxxxx
+default value of integer=x
+default value of real=0.0000000
+value after instalization=01001
+value after instalization=010111100
+value after instalization=89.820000
+value after instalization=56.770000
+real1+real2=89.820000
+before the wire=xx
+after the wire=01
+xmsim: *W,RNQUIE: Simulation is complete.
+xcelium> exit
