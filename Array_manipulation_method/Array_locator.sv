@@ -28,3 +28,17 @@ module array_locators;
     $display("%p",tq);
   end 
 endmodule
+
+//output
+sum=16
+product=3456
+maximum='{8}
+minimum='{1}
+'{1, 6, 2, 8}
+'{9, 8}
+'{1, 2}
+'{}
+'{2}
+'{4}
+'{4}
+'{5}
