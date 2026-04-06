@@ -10,3 +10,9 @@ module test;
     end
   end
 endmodule
+
+//output
+marks(math)=66
+marks(science)=77
+marks(social science)=88
+marks(tamil)=90
