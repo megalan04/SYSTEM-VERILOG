@@ -12,3 +12,11 @@ module enum_tb;
     $display("name=%s",g1.name());
   end
 endmodule
+
+//output
+first=0
+last=4
+prev=4
+next=1
+num=5
+name=BGMI
