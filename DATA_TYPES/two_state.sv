@@ -18,3 +18,13 @@ module two_state;
    $display("value of longint=%b",lint);
    end
 endmodule
+
+
+//output
+value of bit=0
+value of byte=00000010
+value of int=00000000000000001010101111001101
+value of shortint=1010101010101010
+value of longint=0000000000000000000000000000000000000000000000001011110011011010
+xmsim: *W,RNQUIE: Simulation is complete.
+xcelium> exit
