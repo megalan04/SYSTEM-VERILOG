@@ -1,4 +1,4 @@
-module while_loop;
+module do_while_loop;
   int count;
   initial begin
     count=10;
