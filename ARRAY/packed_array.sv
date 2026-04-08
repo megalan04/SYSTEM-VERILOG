@@ -9,3 +9,14 @@ module tb;
     end
   end
 endmodule
+
+
+//output
+array[0]=1
+array[1]=0
+array[2]=0
+array[3]=0
+array[4]=1
+array[5]=1
+array[6]=0
+array[7]=1
