@@ -8,3 +8,11 @@ module static_array;
       $display("arr=%0d",i,arr[i]);
   end
 endmodule
+
+//output
+arr=0         44
+arr=1        444
+arr=2       4444
+arr=3      44444
+arr=4     444444
+arr=5    4444444
