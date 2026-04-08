@@ -19,3 +19,10 @@ module packed_tb;
       $display("%p",value);
     end
 endmodule
+
+//output
+'{a:'hfa, b:'he, c:'h0}
+2
+'{a:'hfa, b:'h2, c:'h0}
+1
+'{a:'hfa, b:'h2, c:'h1}
