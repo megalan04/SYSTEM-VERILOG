@@ -36,3 +36,13 @@ module typedef_struct;
     
   end
 endmodule
+
+//output
+number_plate=4444,model=BMW_M4,year=2024
+number_plate=444,model=BMW_M7,year=2023
+number_plate=44,model=BMW_i5,year=2024
+number_plate=4,model=BMW_i4,year=2022
+car1='{number:444, model:"BMW_M7", year:2023},car2='{number:444, model:"BMW_M7", year:2023}
+car1='{number:444, model:"por911", year:2023}
+car2='{number:444, model:"Mustang", year:2023}
+car1='{number:0, model:"", year:0}
