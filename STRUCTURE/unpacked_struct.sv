@@ -16,3 +16,7 @@ module struct_unpacked;
     $display("%p",student);
   end
 endmodule
+
+//output
+id=35,name=MEGALAN,age=21
+'{id:55, name:"JANAGAN", age:13}
