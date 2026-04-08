@@ -58,3 +58,50 @@ module enum_tb;
     end
   end
 endmodule
+
+//output
+----------------a-----------------
+value=0 character=CAPTAIN_AMERICA
+value=1 character=THOR
+value=2 character=HULK
+value=3 character=SPIDERMAN
+value=4 character=IRONMAN
+value=5 character=THANOS
+value=6 character=GROOT
+value=7 character=AVENGERS_ASSEMBLE
+----------------b-----------------
+value=0 character=CAPTAIN_AMERICA1
+value=1 character=
+value=2 character=
+value=3 character=
+value=4 character=THOR1
+value=5 character=HULK1
+value=6 character=SPIDERMAN1
+value=7 character=IRONMAN1
+----------------c-----------------
+value=0 character=CAPTAIN_AMERICA2
+value=1 character=THOR2
+value=2 character=HULK2
+value=3 character=SPIDERMAN20
+value=4 character=SPIDERMAN21
+value=5 character=SPIDERMAN22
+value=6 character=SPIDERMAN23
+value=7 character=IRONMAN2
+----------------d-----------------
+value=0 character=CAPTAIN_AMERICA3
+value=1 character=THOR3
+value=2 character=HULK33
+value=3 character=HULK34
+value=4 character=HULK35
+value=5 character=SPIDERMAN3
+value=6 character=IRONMAN3
+value=7 character=THANOS3
+----------------e-----------------
+value=0 character=CAPTAIN_AMERICA4
+value=1 character=THOR4
+value=2 character=HULK4
+value=3 character=SPIDERMAN4
+value=4 character=
+value=5 character=
+value=6 character=
+value=7 character=
