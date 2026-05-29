@@ -9,5 +9,5 @@ class transaction;
   function void display(string MEK);
     $display("[%s] A=%b B=%b Cin=%b Sum=%b Cout=%b",MEK,A,B,Cin,Sum,Cout);
   endfunction
-endclas
+endclass
   
