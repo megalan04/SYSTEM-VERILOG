@@ -33,5 +33,13 @@ Child Class
 a=44
 b=33
 
+| **Without Inheritance**                         | **With Inheritance**                             |
+| ----------------------------------------------- | ------------------------------------------------ |
+| Child class does not reuse parent class         | Child class reuses parent class                  |
+| Code may need to be written again               | Existing code can be reused                      |
+| No parent-child relationship                    | Parent-child relationship exists                 |
+| Less code reuse                                 | Better code reuse                                |
+| Changes may need to be made in multiple classes | Common functionality can be maintained in parent |
+| Example: Separate `Car` and `Bike` classes      | Example: `Car extends Vehicle`                   |
 
 
