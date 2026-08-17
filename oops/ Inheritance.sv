@@ -4,7 +4,7 @@ class parent;
   int a=44;
   function void display_parent();
     $display("Parent Class");
-    $display("a=%0d", a);
+    $display("a=%0d",a);
   endfunction
 endclass
 
