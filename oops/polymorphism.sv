@@ -53,3 +53,13 @@ endmodule
 
 //OUTPUT
 Parent display
+
+
+| **Without Polymorphism**                       | **With Polymorphism**                                   |
+| ---------------------------------------------- | ------------------------------------------------------- |
+| Parent and child methods are called separately | Same parent handle can refer to different child objects |
+| No dynamic method selection                    | Dynamic method selection                                |
+| Each object needs its own handle               | One common parent handle can be used                    |
+| Less flexible                                  | More flexible                                           |
+| No runtime method overriding behavior          | Supports method overriding                              |
+| Code becomes less reusable                     | Better code reusability                                 |
