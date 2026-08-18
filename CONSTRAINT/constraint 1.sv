@@ -1,3 +1,5 @@
+//"Generate random values, but only within these rules."
+
 class packet;
   rand bit[3:0]addr;
   constraint addr_c{
