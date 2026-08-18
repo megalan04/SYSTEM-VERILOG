@@ -1,3 +1,5 @@
+//"dist" is used when you want to control the probability of random values.
+
 class packet;
   rand int data;
   constraint c1{data dist{10:=30,20:=60,30:=10};
