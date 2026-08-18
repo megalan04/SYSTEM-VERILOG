@@ -1,4 +1,4 @@
-
+//generate random value but it will generate between the rules
 
 class packet;
   rand bit[3:0]addr;
