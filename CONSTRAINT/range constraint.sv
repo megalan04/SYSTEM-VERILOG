@@ -1,3 +1,5 @@
+//Used when a variable must be within a particular range.
+
 class packet;
   rand int data;
   constraint c1{data inside{[10:20]};
