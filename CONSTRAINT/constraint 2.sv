@@ -22,3 +22,14 @@ addr=45
 addr=53
 addr=50
 addr=52
+
+
+//COMMON OPERATORS
+>    greater than
+<    less than
+>=   greater than or equal
+<=   less than or equal
+==   equal
+!=   not equal
+
+
