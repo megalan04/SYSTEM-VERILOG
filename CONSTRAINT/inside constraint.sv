@@ -1,3 +1,7 @@
+//"inside" is used to restrict a random variable to a set or range of values.
+
+
+
 class packet;
   rand int data;
   constraint c1{data inside{33,44,55,[1:5]};
